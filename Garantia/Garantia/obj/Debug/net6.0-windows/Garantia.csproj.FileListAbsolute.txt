@@ -1,0 +1,16 @@
+C:\Users\Usuario\Documents\GitHub\Garantia\Garantia\Garantia\bin\Debug\net6.0-windows\Garantia.exe
+C:\Users\Usuario\Documents\GitHub\Garantia\Garantia\Garantia\bin\Debug\net6.0-windows\Garantia.deps.json
+C:\Users\Usuario\Documents\GitHub\Garantia\Garantia\Garantia\bin\Debug\net6.0-windows\Garantia.runtimeconfig.json
+C:\Users\Usuario\Documents\GitHub\Garantia\Garantia\Garantia\bin\Debug\net6.0-windows\Garantia.dll
+C:\Users\Usuario\Documents\GitHub\Garantia\Garantia\Garantia\bin\Debug\net6.0-windows\Garantia.pdb
+C:\Users\Usuario\Documents\GitHub\Garantia\Garantia\Garantia\obj\Debug\net6.0-windows\Garantia.Form1.resources
+C:\Users\Usuario\Documents\GitHub\Garantia\Garantia\Garantia\obj\Debug\net6.0-windows\Garantia.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\GitHub\Garantia\Garantia\Garantia\obj\Debug\net6.0-windows\Garantia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\GitHub\Garantia\Garantia\Garantia\obj\Debug\net6.0-windows\Garantia.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\GitHub\Garantia\Garantia\Garantia\obj\Debug\net6.0-windows\Garantia.AssemblyInfo.cs
+C:\Users\Usuario\Documents\GitHub\Garantia\Garantia\Garantia\obj\Debug\net6.0-windows\Garantia.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\Garantia\Garantia\Garantia\obj\Debug\net6.0-windows\Garantia.dll
+C:\Users\Usuario\Documents\GitHub\Garantia\Garantia\Garantia\obj\Debug\net6.0-windows\refint\Garantia.dll
+C:\Users\Usuario\Documents\GitHub\Garantia\Garantia\Garantia\obj\Debug\net6.0-windows\Garantia.pdb
+C:\Users\Usuario\Documents\GitHub\Garantia\Garantia\Garantia\obj\Debug\net6.0-windows\Garantia.genruntimeconfig.cache
+C:\Users\Usuario\Documents\GitHub\Garantia\Garantia\Garantia\obj\Debug\net6.0-windows\ref\Garantia.dll
